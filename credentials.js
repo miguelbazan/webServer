@@ -1,0 +1,1 @@
+module.exports.apikey = '8ecd3c73'
